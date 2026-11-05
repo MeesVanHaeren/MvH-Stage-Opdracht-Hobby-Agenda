@@ -30,6 +30,12 @@ Weekweergave
 
 ```shell
 cd hobby-agenda
+npm install
+```
+Installeert de packages voor dit project.
+
+```shell
+cd hobby-agenda
 npm run dev
 ``` 
 Start een server op.
