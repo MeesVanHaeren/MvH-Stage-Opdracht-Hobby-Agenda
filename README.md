@@ -12,13 +12,9 @@ Op de overzichtpagina moet de gebruiker kunnen filteren op een, meerdere of alle
 
 ## Domeinbeschrijving
 
-Elk agendapunt heeft een titel, een beschrijving voor notities, een begintijdstip, een eindtijdstip en een categorie.
-
-Een tijdstip heeft een datum, een tijd, en kan een begintijdstip zijn of een eindtijdstip.
+Elk agendapunt heeft een titel, een optionele beschrijving voor notities, een begintijdstip, een eindtijdstip en een categorie.
 
 Een categorie heeft een naam, een icoontje en een kleur. 
-
-Een kleur heeft een naam en een Hexwaarde
 
 ## Wireframes
 
