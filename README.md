@@ -1,5 +1,7 @@
 # MvH-Stage-Opdracht-Hobby-Agenda
 
+Dit is een repository die gemaakt is voor het solicitatieproces bij Webbio.
+
 # Concept
 
 De hobby agenda is een agenda waarin men een planning bij kan houden over hun hobby's. De app heeft een startpagina waarin ze hun bestaande planning kunnen zien in een maand, week of chronologische lijstweergave, een detailpagina waarin de gebruiker de details kan zien van een bestaand agendapunt, en een modal waarin een gebruiker een nieuw agendapunt aan kan maken.
